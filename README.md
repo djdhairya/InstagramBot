@@ -1,1 +1,3 @@
 # InstagramBot
+
+Libary used: instagrapi
